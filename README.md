@@ -8,3 +8,9 @@
 C:\Program Files (x86)\Steam\steamapps\common\The Bazaar\TheBazaar_Data\StreamingAssets
 
 ## 주요 파일들
+
+
+## 협업
+같이 하실분 있으시면 연락 주세요. 혼자하면 더디니까.  
+email: oceanfog1@gmail.com  
+kakao: @oceanfog
